@@ -1,0 +1,37 @@
+2024-09-27 09:37:30.014 [info] Getting Manifest... mads-hartmann.bash-ide-vscode
+2024-09-27 09:37:30.322 [info] Installing extension: mads-hartmann.bash-ide-vscode {"productVersion":{"version":"1.93.1","date":"2024-09-11T17:20:05.685Z"},"pinned":false,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/root/.vscode/extensions/extensions.json","path":"/root/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-09-27 09:37:36.562 [info] Extension signature verification result for mads-hartmann.bash-ide-vscode: UnknownError. Executed: true. Duration: 22ms.
+2024-09-27 09:37:37.392 [info] Extracted extension to file:///root/.vscode/extensions/mads-hartmann.bash-ide-vscode-1.43.0: mads-hartmann.bash-ide-vscode
+2024-09-27 09:37:37.396 [info] Renamed to /root/.vscode/extensions/mads-hartmann.bash-ide-vscode-1.43.0
+2024-09-27 09:37:37.405 [info] Marked extension as uninstalled mads-hartmann.bash-ide-vscode-1.42.0
+2024-09-27 09:37:37.407 [info] Extension installed successfully: mads-hartmann.bash-ide-vscode vscode-userdata:/root/.vscode/extensions/extensions.json
+2024-09-27 09:37:37.478 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/root/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/root/.vscode/extensions/extensions.json.vsctmp'
+    at o.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19406)
+    at u (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19517)
+    at $.hb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:36674)
+    at $.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:29001)
+    at async c.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:14931)
+    at async W.ub (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:120356)
+2024-09-27 09:39:59.286 [info] Uninstalling extension from the profile: ms-ceintl.vscode-language-pack-ko@1.93.2024091109 vscode-userdata:/root/.vscode/extensions/extensions.json
+2024-09-27 09:39:59.306 [info] Removing language packs from the extension ms-ceintl.vscode-language-pack-ko
+2024-09-27 09:39:59.309 [info] Marked extension as uninstalled ms-ceintl.vscode-language-pack-ko-1.93.2024091109
+2024-09-27 09:39:59.383 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/root/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/root/.vscode/extensions/extensions.json.vsctmp'
+    at o.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19406)
+    at u (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19517)
+    at $.hb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:36674)
+    at $.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:29001)
+    at async c.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:14931)
+    at async W.ub (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:120356)
+2024-09-27 09:39:59.662 [info] Successfully uninstalled extension from the profile ms-ceintl.vscode-language-pack-ko@1.93.2024091109 vscode-userdata:/root/.vscode/extensions/extensions.json
+2024-09-27 09:40:01.833 [info] Getting Manifest... ms-ceintl.vscode-language-pack-ko
+2024-09-27 09:40:01.878 [info] Installing extension: ms-ceintl.vscode-language-pack-ko {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/root/.vscode/extensions/extensions.json","path":"/root/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":true,"productVersion":{"version":"1.93.1","date":"2024-09-11T17:20:05.685Z"}}
+2024-09-27 09:40:01.923 [info] Removed the extension from uninstalled list: ms-ceintl.vscode-language-pack-ko
+2024-09-27 09:40:01.935 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-ko
+2024-09-27 09:40:01.955 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-ko vscode-userdata:/root/.vscode/extensions/extensions.json
+2024-09-27 09:40:01.999 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/root/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/root/.vscode/extensions/extensions.json.vsctmp'
+    at o.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19406)
+    at u (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19517)
+    at $.hb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:36674)
+    at $.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:29001)
+    at async c.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:14931)
+    at async W.ub (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:120356)

@@ -1,0 +1,18 @@
+2024-09-27 09:40:04.485 [info] update#setState idle
+2024-09-27 09:40:34.486 [info] update#setState checking for updates
+2024-09-27 09:40:34.572 [info] update#setState idle
+2024-09-27 10:40:34.516 [info] update#setState checking for updates
+2024-09-27 10:40:34.718 [info] update#setState idle
+2024-09-27 11:40:34.531 [info] update#setState checking for updates
+2024-09-27 11:40:34.702 [info] update#setState idle
+2024-09-27 12:40:34.557 [info] update#setState checking for updates
+2024-09-27 12:40:34.807 [info] update#setState idle
+2024-09-27 13:32:09.477 [info] Extension host with pid 5565 exited with code: 0, signal: unknown.
+2024-09-27 13:40:34.566 [info] update#setState checking for updates
+2024-09-27 13:40:34.808 [info] update#setState idle
+2024-09-27 14:40:34.575 [info] update#setState checking for updates
+2024-09-27 14:40:34.707 [info] update#setState idle
+2024-09-27 15:40:34.586 [info] update#setState checking for updates
+2024-09-27 15:40:34.731 [info] update#setState idle
+2024-09-27 15:53:23.345 [info] Extension host with pid 27847 exited with code: 0, signal: unknown.
+2024-09-27 15:53:23.369 [error] [UtilityProcessWorker]: terminated unexpectedly with code 2062700576, signal: unknown
