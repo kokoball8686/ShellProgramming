@@ -103,3 +103,4 @@ export PATH=$PATH:/root/shell:/root/scripts
 alias code='code --no-sandbox --user-data-dir=~/vscode'
 alias vscode='code'
 
+#hehehaha
